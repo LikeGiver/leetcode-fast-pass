@@ -1,0 +1,8 @@
+title: 算法小册
+description: A starter template for a Jeykll site using the Just the Docs theme!
+theme: just-the-docs
+
+url: https://s09g.github.io/leetcode-fast-pass
+
+aux_links:
+   s09g Repository: https://github.com/s09g
