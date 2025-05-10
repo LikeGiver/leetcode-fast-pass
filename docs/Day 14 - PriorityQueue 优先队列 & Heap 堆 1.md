@@ -1,4 +1,6 @@
-# Day 14 - PriorityQueue 优先队列 ## Day 14 - PriorityQueue 优先队列 ## 章节导读 Heap 堆 1 Heap 堆 1
+# Day 14 - PriorityQueue 优先队列
+
+## 章节导读
 
 之前我们学习了Stack栈和Queue队列的考点，以及衍生的单调栈和双端队列。本节我们学习优先队列。
 

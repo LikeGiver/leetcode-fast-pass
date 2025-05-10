@@ -1,4 +1,4 @@
-# Day 2 - Linked List 链表2
+# Day 02 - Linked List 链表2
 
 上一篇文章中，我们学习了链表的构造和两个常用的小技巧dummy node & two pointers。这节课我们来学习面试中常问的链表操作和两种核心算法，并且通过四道例题体会它们在实际面试题中的考察方式。
 
