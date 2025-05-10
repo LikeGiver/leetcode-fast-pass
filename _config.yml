@@ -1,8 +1,7 @@
 title: 28 天速通 LeetCode
-remote_theme: just-the-docs/just-the-docs@v0.6.0
+remote_theme: just-the-docs/just-the-docs@v0.10.0
+plugins:
+  - jekyll-remote-theme
 
-url: https://s09g.github.io/leetcode-fast-pass
-
-color_scheme: auto
-aux_links:
-   s09g Repository: https://github.com/s09g
+url: "https://s09g.github.io"
+baseurl: "/leetcode-fast-pass"
